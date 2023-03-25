@@ -1,8 +1,8 @@
 {
-    "Prefix": "!",
-    "MainColor": "#B6E3FF",
-    "ErrorColor": "#54AEFF",
-    "ClientID": "1088310647583944734",
-    "Token": "MTA4ODMxMDY0NzU4Mzk0NDczNA.GPOMIq.ZFDPudZMeoyA1QDLNsJYoEZ2cxyxWsO4AQg__U",
-    "OpenAIapiKey": "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"
+    "Prefix": "Put anything you want as prefix",
+    "MainColor": "Put any #HexCode you want for embeds color",
+    "ErrorColor": "Put any #HexCode you want for embeds color when there is an error",
+    "ClientID": "Put your Bot ID/Client ID here",
+    "Token": "Put your Bot Token here",
+    "OpenAIapiKey": "Put your Open AI API Key here"
 }
