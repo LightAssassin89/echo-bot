@@ -6,7 +6,7 @@
 
 1. Discord Bot Token **[Guide](https://discordjs.guide/preparations/setting-up-a-bot-application.html#creating-your-bot)**  
    1.1. Enable "Message Content Intent" and "Server Members Intent" in Discord Developer Portal
-2. OpenAI API Key
+2. **[OpenAI API Key](https://platform.openai.com/account/api-keys)**
 3. **[Node.js 18.15.0](https://nodejs.org/en/download/)** or higher
 
 ---
