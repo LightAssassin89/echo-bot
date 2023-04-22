@@ -13,7 +13,7 @@
   "description": "A smart way to automate",
   "version": "1.2.0",
   "main": "index.js",
-  "repository": "https://github.com/codebase04/echo-bot",
+  "repository": "https://github.com/codebase04/echo-bot-discord",
   "author": "Codebase_",
   "license": "MIT"
 }
