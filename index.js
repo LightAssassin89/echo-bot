@@ -1,6 +1,6 @@
 /*
     Author: Codebase_
-    Github: https://github.com/codebase04/echo-bot-discord
+    Github: https://github.com/codebase04/echo-bot
     Current Version: 1.2.0
     DiscordJs Version: 14.8.0
     OpenAI Version: 3.2.1

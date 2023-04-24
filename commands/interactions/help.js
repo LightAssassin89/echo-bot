@@ -34,7 +34,7 @@ module.exports = {
         iconURL: client.user.displayAvatarURL({ size: 1024 })
       })
       .setDescription(client.MessageCommands.map(c => `> \`${config.Prefix}${c.name}\` \`(${c.aliases?.map(a => `${config.Prefix}${a}`)?.join(' / ') || 'No Aliases'})\`\n> *${c.description}*`).join('\n\n'))
-      .setFooter({ text: 'Developed by Ivan De Carvalho#9489 | https://github.com/codebase04/echo-bot-discord' });
+      .setFooter({ text: 'Developed by Ivan De Carvalho#9489 | https://github.com/codebase04/echo-bot' });
 
     if (chatbot.State) embed.addFields({
       name: 'ChatBot:',

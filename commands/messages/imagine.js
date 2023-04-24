@@ -43,7 +43,7 @@ module.exports = {
 
                 new Discord.EmbedBuilder()
                     .setColor(config.MainColor)
-                    .setURL('https://github.com/codebase04/echo-bot-discord')
+                    .setURL('https://github.com/codebase04/echo-bot')
                     .setAuthor({
                         name: question.length > 256 ? question.substring(0, 253) + "..." : question,
                         iconURL: message.author.displayAvatarURL()
@@ -68,7 +68,7 @@ module.exports = {
             for (let i = 0; i < 3; i++) {
 
                 const embed = new Discord.EmbedBuilder()
-                    .setURL('https://github.com/codebase04/echo-bot-discord')
+                    .setURL('https://github.com/codebase04/echo-bot')
                     .setImage(data[i + 1].url);
 
                 const button = new Discord.ButtonBuilder()
